@@ -1,21 +1,21 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{02B8708E-59D0-499F-83EB-D022FBACC371}") = "film", ".dub/film.visualdproj", "{ABB6B49F-0F33-4947-9794-4F0CDC52A7B8}"
+Project("{4FE6311C-0BFB-4AE1-9F33-8DA2D36AEE6A}") = "film", ".dub/film.visualdproj", "{70CA0AC5-CC11-4ADA-A521-DB56A9BBFF71}"
 	ProjectSection(ProjectDependencies) = postProject
-		{9279E325-8264-45B5-8A6F-552257F3D037} = {9279E325-8264-45B5-8A6F-552257F3D037}
+		{3502B03D-ACD6-403E-9E4A-2657ABC9343C} = {3502B03D-ACD6-403E-9E4A-2657ABC9343C}
 	EndProjectSection
 EndProject
-Project("{02B8708E-59D0-499F-83EB-D022FBACC371}") = "imageformats", ".dub/imageformats.visualdproj", "{9279E325-8264-45B5-8A6F-552257F3D037}"
+Project("{4FE6311C-0BFB-4AE1-9F33-8DA2D36AEE6A}") = "imageformats", ".dub/imageformats.visualdproj", "{3502B03D-ACD6-403E-9E4A-2657ABC9343C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		debug|x64 = debug|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ABB6B49F-0F33-4947-9794-4F0CDC52A7B8}.debug|x64.ActiveCfg = debug|x64
-		{ABB6B49F-0F33-4947-9794-4F0CDC52A7B8}.debug|x64.Build.0 = debug|x64
-		{9279E325-8264-45B5-8A6F-552257F3D037}.debug|x64.ActiveCfg = debug|x64
-		{9279E325-8264-45B5-8A6F-552257F3D037}.debug|x64.Build.0 = debug|x64
+		{70CA0AC5-CC11-4ADA-A521-DB56A9BBFF71}.debug|x64.ActiveCfg = debug|x64
+		{70CA0AC5-CC11-4ADA-A521-DB56A9BBFF71}.debug|x64.Build.0 = debug|x64
+		{3502B03D-ACD6-403E-9E4A-2657ABC9343C}.debug|x64.ActiveCfg = debug|x64
+		{3502B03D-ACD6-403E-9E4A-2657ABC9343C}.debug|x64.Build.0 = debug|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

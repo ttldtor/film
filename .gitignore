@@ -14,4 +14,4 @@ film-test-*
 *.obj
 *.lst
 dub.selections.json
-
+.vs
