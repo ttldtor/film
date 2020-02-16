@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"ttldtor"
+	],
+	"copyright": "Copyright © 2020, ttldtor",
+	"dependencies": {
+		"imageformats": "~>7.0.2"
+	},
+	"description": "IFPC app",
+	"license": "Unlicense",
+	"name": "film"
+}

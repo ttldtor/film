@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/film
+film.so
+film.dylib
+film.dll
+film.a
+film.lib
+film-test-*
+*.exe
+*.o
+*.obj
+*.lst
+dub.selections.json
+
